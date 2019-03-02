@@ -264,7 +264,6 @@ int main()
         return -1;
     }
     xuatCayKhung(canhCay, soDinh);
-
     // <---------- Prim END ---------->
 
     // <---------- Kruskal BEGIN ---------->
